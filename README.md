@@ -1,0 +1,4 @@
+django-min
+==========
+
+template minimalisnya
